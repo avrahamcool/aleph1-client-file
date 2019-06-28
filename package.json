@@ -1,0 +1,27 @@
+{
+  "name": "aleph1-client-file",
+  "version": "1.0.1",
+  "description": "easy file uploading via JSON POST directly from the client.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avrahamcool/aleph1-client-file.git"
+  },
+  "keywords": [
+    "aleph1",
+    "ClientFile"
+  ],
+  "author": "Avraham Essoudry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avrahamcool/aleph1-client-file/issues"
+  },
+  "homepage": "https://github.com/avrahamcool/aleph1-client-file#readme",
+  "devDependencies": {
+    "typescript": "^3.5.2"
+  }
+}
