@@ -8,6 +8,7 @@
 
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/avrahamcool/aleph1-client-file.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/avrahamcool/aleph1-client-file/context:javascript)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/avrahamcool/aleph1-client-file.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/avrahamcool/aleph1-client-file/alerts/)
+[![DeepScan grade](https://deepscan.io/api/teams/5394/projects/7172/branches/67736/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=5394&pid=7172&bid=67736)
 
 aleph1-client-file is a JS library that make uploading files to a C# webAPI easy using a simple JSON POST request from any HTTPClient.
 the request can contain single or multiple files, with or without additional metadata.
